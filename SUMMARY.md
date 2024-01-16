@@ -24,6 +24,7 @@
 
 ## 🏆 Traffic
 
+* [💡 ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ](traffic/otkaz-ot-otvetstvennosti.md)
 * [🌐 Ссылки на наши Гайды](traffic/ssylki-na-nashi-gaidy.md)
 * [💰 Траффик (платный )](traffic/traffik-platnyi.md)
 * [💸 Траффик (бесплатный)](traffic/traffik-besplatnyi.md)
