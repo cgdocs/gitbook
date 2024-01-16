@@ -1,59 +1,113 @@
-> ## ⚠️ Deprecation warning:
-> As the efforts of the GitBook team are focused on the [GitBook.com](https://www.gitbook.com) platform, the CLI is no longer under active development.  
-> All content supported by the CLI are mostly supported by our [GitBook.com / GitHub integration](https://docs.gitbook.com/getting-started/git-sync).  
-> Content hosted on the [legacy.gitbook.com](https://legacy.gitbook.com) will continue working until further notice. For differences with the new version, > check out our [documentation](https://docs.gitbook.com/v2-changes/important-differences).
-> 
-> Join our [GitHub community](https://github.com/GitbookIO/community) to stay up to date with the latest news at GitBook.
+---
+description: >-
+  Мы предлагаем полностью автоматизированный проект по крипто-трафику,
+  поддерживаемый нашей командой с богатым опытом работы в этой сфере с 2017
+  года.
+cover: .gitbook/assets/Post_FullHD (1).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 👋 Приветствуем в CRYPTOGRAB!
+
+{% hint style="info" %}
+**Мы лучшие в сфере криптоскама, большинство методов и способов были созданы в нашей команде. Мы понимаем в крипто траффике и имеем большой опыт, наш продукт многофункциональный и продуманный. Подходит как для профессиональных арбитражников, так и для совсем новичков.**
+{% endhint %}
 
 
-GitBook
-=======
 
-[![NPM version](https://badge.fury.io/js/gitbook.svg)](http://badge.fury.io/js/gitbook)
-[![Linux Build Status](https://travis-ci.org/GitbookIO/gitbook.png?branch=master)](https://travis-ci.org/GitbookIO/gitbook)
-[![Windows Build status](https://ci.appveyor.com/api/projects/status/63nlflxcwmb2pue6?svg=true)](https://ci.appveyor.com/project/GitBook/gitbook)
-[![Slack Status](https://slack.gitbook.com/badge.svg)](https://slack.gitbook.com)
+Работая в нашей команде, вы можете быть уверены в честности и прозрачности нашего проекта.​
 
-GitBook is a command line tool (and Node.js library) for building beautiful books using GitHub/Git and Markdown (or AsciiDoc). Here is an example: [Learn Javascript](https://legacy.gitbook.com/book/GitBookIO/javascript).
+### Как мне приступить к работе? <a href="#kak-mne-pristupit-k-rabote" id="kak-mne-pristupit-k-rabote"></a>
 
-You can publish and host books easily online using [gitbook.com](https://legacy.gitbook.com). A desktop editor is [also available](https://legacy.gitbook.com/editor).
+Я являюсь опытным человеком в темах "Арбитраж траффика" и "Спам". Как я могу получить доступ к продукту и начать зарабатывать на этом проекте?[⚡Быстрый Старт](bystryi-start.md)
 
-Stay updated by following [@GitBookIO](https://twitter.com/GitBookIO) on Twitter or [GitBook](https://www.facebook.com/gitbookcom) on Facebook.
+### Как **это всё работает?** <a href="#kak-eto-vsyo-rabotaet" id="kak-eto-vsyo-rabotaet"></a>
 
-Complete documentation is available at [toolchain.gitbook.com](http://toolchain.gitbook.com/).
+Погрузитесь немного глубже и начните изучать наш проект, чтобы получить представление обо всех возможностях наших продуктов.
 
-![Image](https://raw.github.com/GitbookIO/gitbook/master/preview.png)
+{% embed url="https://www.youtube.com/watch?v=Awn9zQz5hqM" %}
 
-## Getting started
 
-GitBook can be used either on your computer for building local books or on legacy.gitbook.com for hosting them. To get started, check out [the installation instructions in the documentation](docs/setup.md).
 
-## Usage examples
+## Навигация
 
-GitBook can be used to create book, public documentation, enterprise manual, thesis, research papers, etc.
+{% content-ref url="wiki-cryptograb/nashi-preimushestva.md" %}
+[nashi-preimushestva.md](wiki-cryptograb/nashi-preimushestva.md)
+{% endcontent-ref %}
 
-You can find a [list of real-world examples](docs/examples.md) in the documentation.
+{% content-ref url="wiki-cryptograb/bot-cryptograb_site.md" %}
+[bot-cryptograb\_site.md](wiki-cryptograb/bot-cryptograb\_site.md)
+{% endcontent-ref %}
 
-## Help and Support
+{% content-ref url="wiki-cryptograb/dizainy-i-ikh-vybor.md" %}
+[dizainy-i-ikh-vybor.md](wiki-cryptograb/dizainy-i-ikh-vybor.md)
+{% endcontent-ref %}
 
-We're always happy to help out with your books or any other questions you might have. You can ask a question on the following contact form at [gitbook.com/contact](https://legacy.gitbook.com/contact) or signal an issue on [GitHub](https://github.com/GitbookIO/gitbook).
+{% content-ref url="wiki-cryptograb/nashi-offery/dex-exchange.md" %}
+[dex-exchange.md](wiki-cryptograb/nashi-offery/dex-exchange.md)
+{% endcontent-ref %}
 
-## Features
+{% content-ref url="wiki-cryptograb/nashi-offery/novadrainer.md" %}
+[novadrainer.md](wiki-cryptograb/nashi-offery/novadrainer.md)
+{% endcontent-ref %}
 
-* Write using [Markdown](http://toolchain.gitbook.com/syntax/markdown.html) or [AsciiDoc](http://toolchain.gitbook.com/syntax/asciidoc.html)
-* Output as a website or [ebook (pdf, epub, mobi)](http://toolchain.gitbook.com/ebook.html)
-* [Multi-Languages](http://toolchain.gitbook.com/languages.html)
-* [Lexicon / Glossary](http://toolchain.gitbook.com/lexicon.html)
-* [Cover](http://toolchain.gitbook.com/ebook.html)
-* [Variables and Templating](http://toolchain.gitbook.com/templating/)
-* [Content References](http://toolchain.gitbook.com/templating/conrefs.html)
-* [Plugins](http://toolchain.gitbook.com/plugins/)
-* [Beautiful default theme](https://github.com/GitbookIO/theme-default)
+{% content-ref url="https://app.gitbook.com/o/ZViEnMU7N89ipVOKJDEM/s/q1yZupMNHzm1fxC9C8R1/" %}
+[Keitaro](https://app.gitbook.com/o/ZViEnMU7N89ipVOKJDEM/s/q1yZupMNHzm1fxC9C8R1/)
+{% endcontent-ref %}
 
-## Publish your book
+##
 
-The platform [legacy.gitbook.com](https://legacy.gitbook.com/) is like an "Heroku for books": you can create a book on it (public, or private) and update it using **git push**.
+##
 
-## Licensing
+## Полезные ссылки
 
-GitBook is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the full license text.
+{% embed url="https://t.me/cg_ingo" %}
+Инфо группа
+{% endembed %}
+
+{% embed url="https://t.me/cg_designs" %}
+Группа с дизайнами
+{% endembed %}
+
+{% embed url="https://crypto-grab.info/ruguide" %}
+Подробный старый гайд
+{% endembed %}
+
+{% embed url="https://telegra.ph/Lagi-SHablonov---Resheniya-01-28-2" %}
+Статья про лаги и решения
+{% endembed %}
+
+{% embed url="https://t.me/cryptograb_reviws" %}
+Отзывы
+{% endembed %}
+
+{% embed url="https://t.me/cryptograb_chat" %}
+Чат ВзаимоПомощи&#x20;
+{% endembed %}
+
+{% embed url="https://t.me/CryptoGrabSupport_bot" %}
+Связь с Саппортом
+{% endembed %}
+
+
+
+{% embed url="https://www.youtube.com/playlist?list=PLvpkSEeQQ8acKVeGz4GTyzGkIaP1gY8ZE" %}
+Видео Гайды
+{% endembed %}
+
+
+
